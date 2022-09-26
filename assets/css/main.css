@@ -803,7 +803,7 @@
 
 /* Mobile */
 
-	@media screen and (max-width: 400px) {
+	@media screen and (max-width: 100px) {
 
 		/* Basic */
 
@@ -812,7 +812,7 @@
 			}
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 11px;
 			}
 
 		/* BG */
