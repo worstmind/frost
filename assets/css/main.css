@@ -639,12 +639,12 @@
 
 /* Wide */
 
-	@media screen and (max-width: 30px) {
+	@media screen and (max-width: 10px) {
 
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				font-size: 13px;
 			}
 
 		/* BG */
