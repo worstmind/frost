@@ -808,7 +808,7 @@
 		/* Basic */
 
 			body {
-				min-width: 320px;
+				min-width: 100px;
 			}
 
 			body, input, select, textarea {
