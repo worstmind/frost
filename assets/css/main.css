@@ -811,8 +811,8 @@
 				min-width: 100px;
 			}
 
-			body, input, select, textarea {
-				font-size: 11px;
+			body, input, select, textarea, h1 {
+				font-size: 35px;
 			}
 
 		/* BG */
@@ -1008,6 +1008,8 @@
     align-items: center;
     justify-content: center;
     line-spacing: 10px;
+    max-width: 5000px; 
+    max-width: 1000px; 
 }
 
 #username {
